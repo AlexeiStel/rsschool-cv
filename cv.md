@@ -4,8 +4,8 @@ Hello. My name is Alexey Stelmakh. I am from Brest.
     
 ## Education ##  
 
-He graduated from _the Belarusian State University of Informatics and Radioelectronics_.
-    
+He graduated from _the Belarusian State University of Informatics and Radioelectronics_. And also graduated from _the Belarusian State Academy of Communications_.
+
 ## Contacts ##  
 
 You can contact me by phone: _+375297577459_ or email: _alexeistel@gmail.com_.
