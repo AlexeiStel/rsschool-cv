@@ -9,9 +9,9 @@ He graduated from _the Belarusian State University of Informatics and Radioelect
 ## Contacts ##  
 
 You can contact me: 
-by phone: _+375297577459_
-email: _alexeistel@gmail.com_
-linkedIn: _Aliaksei Stelmakh_.
+1. by phone: _+375297577459_
+1. email: _alexeistel@gmail.com_
+1. linkedIn: _Aliaksei Stelmakh_.
    
 ## My personal qualities ##  
 
